@@ -1,11 +1,7 @@
 DeWolfe/Ragnarok/1
 
-![][image1]Michael DeWolfe  
-Po Box 31029  
-3980 Shelbourne St.  
-Victoria BC Canada  
-V8N 3J6  
-Ph\# 250-380-3565
+Shawn DeWolfe  
+
 
 **RAGNAROK**  
 **The Twilight of Western Civilization**  
@@ -1587,5 +1583,3 @@ Larry nodded. "Here, I feel I have a sense of purpose. It feels like I'm doing s
 An ancient memory came to him of something taught back in high school: people were once solely rural folk. They gathered to trade. The trade developed merchants, shops and then cities. It had come full circle. The cities were dead, the shops were closed and the merchants were gone. The people again lived close to the land they drew life from.
 
 END
-
-[image1]: <data:image/png;base64,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>
